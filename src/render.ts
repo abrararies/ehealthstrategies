@@ -4,7 +4,7 @@ import { getRegionMeta } from "./regions";
 import { resolveAsset } from "./assets";
 import type { Country, Strategy } from "./types";
 
-const REPO_URL = "https://github.com/abrararies/ehealthstrategies/";
+const REPO_URL = "https://github.com/abrarsyedx/ehealthstrategies/";
 
 export function renderHeader(): HTMLElement {
   const brand = el("a", { class: "brand", href: "#top" }, [
