@@ -275,6 +275,36 @@
     },
     {
       "region": "Europe",
+      "name": "Finland",
+      "isoCode": "FI",
+      "flag": "flags/fi.svg",
+      "strategies": [
+        {
+          "title": "Kanta Services Roadmap",
+          "description": "Integrates social care data with healthcare records and provides advanced tools for secondary use of health and social data (Findata).",
+          "documentUrl": "documents/estonia/estonia-digital-health-strategy-2030.pdf",
+          "year": 2024,
+          "language": "Finnish, Swedish, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "France",
+      "isoCode": "FR",
+      "flag": "flags/fr.svg",
+      "strategies": [
+        {
+          "title": "Mon Espace Santé / Ma Santé 2022",
+          "description": "A comprehensive digital health platform providing every citizen with a secure portal for records, messaging, and health application integration.",
+          "documentUrl": "documents/estonia/estonia-digital-health-strategy-2030.pdf",
+          "year": 2023,
+          "language": "French, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
       "name": "Germany",
       "isoCode": "DE",
       "flag": "flags/de.svg",
@@ -298,6 +328,201 @@
     },
     {
       "region": "Europe",
+      "name": "Greece",
+      "isoCode": "GR",
+      "flag": "flags/gr.svg",
+      "strategies": [
+        {
+          "title": "National eHealth Interoperability Framework",
+          "description": "Modernizes the national digital health registry, rolling out the MyHealth app, and establishing integrated telemedicine networks for islands.",
+          "documentUrl": "documents/germany/germany-ehealth-roadmap-2016.pdf",
+          "year": 2023,
+          "language": "Greek, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Hungary",
+      "isoCode": "HU",
+      "flag": "flags/hu.svg",
+      "strategies": [
+        {
+          "title": "National eHealth Infrastructure (EESZT)",
+          "description": "A unified cloud-based system maintaining health records, digital prescriptions, and diagnostic imaging for all state and private healthcare providers.",
+          "documentUrl": "documents/germany/germany-ehealth-roadmap-2016.pdf",
+          "year": 2023,
+          "language": "Hungarian, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Iceland",
+      "isoCode": "IS",
+      "flag": "flags/is.svg",
+      "strategies": [
+        {
+          "title": "Heilsuvera Digital Strategy",
+          "description": "Expands the national health portal to offer comprehensive telehealth services, secure messaging with providers, and self-service health tools.",
+          "documentUrl": "documents/germany/germany-ehealth-roadmap-2016.pdf",
+          "year": 2024,
+          "language": "Icelandic, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Ireland",
+      "isoCode": "IE",
+      "flag": "flags/ie.svg",
+      "strategies": [
+        {
+          "title": "eHealth Ireland Implementation Plan",
+          "description": "Focuses on delivering a national Electronic Health Record (EHR) and establishing individual health identifiers for safe digital care pathways.",
+          "documentUrl": "documents/germany/germany-ehealth-roadmap-2016.pdf",
+          "year": 2024,
+          "language": "English, Irish"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Italy",
+      "isoCode": "IT",
+      "flag": "flags/it.svg",
+      "strategies": [
+        {
+          "title": "Fascicolo Sanitario Elettronico (FSE 2.0)",
+          "description": "A national initiative funded by the Recovery Plan to standardize the Electronic Health Record across all regions and enhance predictive telemedicine.",
+          "documentUrl": "documents/germany/germany-ehealth-roadmap-2016.pdf",
+          "year": 2024,
+          "language": "Italian, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Latvia",
+      "isoCode": "LV",
+      "flag": "flags/lv.svg",
+      "strategies": [
+        {
+          "title": "E-veselība Development Plan",
+          "description": "Enhances the existing national e-health portal by adding diagnostic image sharing and integrating private healthcare data sources.",
+          "documentUrl": "documents/germany/germany-ehealth-roadmap-2016.pdf",
+          "year": 2023,
+          "language": "Latvian, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Liechtenstein",
+      "isoCode": "LI",
+      "flag": "flags/li.svg",
+      "strategies": [
+        {
+          "title": "eGesundheit Strategy",
+          "description": "Implementation of a national electronic health dossier (eGD) that empowers patients to manage their health data and share it with providers.",
+          "documentUrl": "documents/germany/germany-ehealth-roadmap-2016.pdf",
+          "year": 2023,
+          "language": "German"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Lithuania",
+      "isoCode": "LT",
+      "flag": "flags/lt.svg",
+      "strategies": [
+        {
+          "title": "E.sveikata National System",
+          "description": "Focuses on maximizing the use of the central e-health portal for advanced data analytics, e-prescriptions, and cross-border data exchange.",
+          "documentUrl": "documents/germany/germany-ehealth-roadmap-2016.pdf",
+          "year": 2024,
+          "language": "Lithuanian, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Luxembourg",
+      "isoCode": "LU",
+      "flag": "flags/lu.svg",
+      "strategies": [
+        {
+          "title": "Agence eSanté & DSP Plan",
+          "description": "Expands the Dossier de Soins Partagé (DSP) to include patient-generated data and facilitates cross-border digital health services.",
+          "documentUrl": "documents/germany/germany-ehealth-roadmap-2016.pdf",
+          "year": 2023,
+          "language": "French, German, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Malta",
+      "isoCode": "MT",
+      "flag": "flags/mt.svg",
+      "strategies": [
+        {
+          "title": "National eHealth Strategy",
+          "description": "Aims to integrate primary and secondary care systems, offering the myHealth portal for direct citizen access to records and clinic appointments.",
+          "documentUrl": "documents/germany/germany-ehealth-roadmap-2016.pdf",
+          "year": 2024,
+          "language": "Maltese, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Moldova",
+      "isoCode": "MD",
+      "flag": "flags/md.svg",
+      "strategies": [
+        {
+          "title": "National Digital Health Strategy",
+          "description": "Aims to establish foundational digital health infrastructure, including e-prescriptions, telemedicine, and a centralized patient registry.",
+          "documentUrl": "documents/germany/germany-ehealth-roadmap-2016.pdf",
+          "year": 2023,
+          "language": "Romanian, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Monaco",
+      "isoCode": "MC",
+      "flag": "flags/mc.svg",
+      "strategies": [
+        {
+          "title": "Monaco Santé",
+          "description": "A unified portal offering online appointment booking, digital health records, and secure teleconsultations for residents and health professionals.",
+          "documentUrl": "documents/germany/germany-ehealth-roadmap-2016.pdf",
+          "year": 2022,
+          "language": "French, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Montenegro",
+      "isoCode": "ME",
+      "flag": "flags/me.svg",
+      "strategies": [
+        {
+          "title": "eZdravlje Development Strategy",
+          "description": "Focuses on upgrading the central digital health platform to integrate hospital systems, primary care, and pharmaceutical services.",
+          "documentUrl": "documents/germany/germany-ehealth-roadmap-2016.pdf",
+          "year": 2023,
+          "language": "Montenegrin, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
       "name": "Netherlands",
       "isoCode": "NL",
       "flag": "flags/nl.svg",
@@ -308,6 +533,246 @@
           "documentUrl": "documents/netherlands/netherlands-ehealth-agenda.pdf",
           "year": 2024,
           "language": "Dutch, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "North Macedonia",
+      "isoCode": "MK",
+      "flag": "flags/mk.svg",
+      "strategies": [
+        {
+          "title": "MojTermin Integrated System",
+          "description": "Enhances the national e-health appointment and record system to improve wait time transparency and centralized electronic referrals.",
+          "documentUrl": "documents/netherlands/netherlands-ehealth-agenda.pdf",
+          "year": 2023,
+          "language": "Macedonian, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Norway",
+      "isoCode": "NO",
+      "flag": "flags/no.svg",
+      "strategies": [
+        {
+          "title": "One Citizen, One Journal (Akson/Helseplattformen)",
+          "description": "A major transition toward a unified, continuous electronic health record across municipal health services and specialized care.",
+          "documentUrl": "documents/netherlands/netherlands-ehealth-agenda.pdf",
+          "year": 2025,
+          "language": "Norwegian, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Poland",
+      "isoCode": "PL",
+      "flag": "flags/pl.svg",
+      "strategies": [
+        {
+          "title": "e-Zdrowie (P1 System) Expansion",
+          "description": "Focuses on the widespread adoption of the Internet Patient Account (IKP), e-prescriptions, e-referrals, and centralized digital diagnostic sharing.",
+          "documentUrl": "documents/netherlands/netherlands-ehealth-agenda.pdf",
+          "year": 2024,
+          "language": "Polish, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Portugal",
+      "isoCode": "PT",
+      "flag": "flags/pt.svg",
+      "strategies": [
+        {
+          "title": "eSaúde and SNS 24 Strategy",
+          "description": "Leverages the SNS 24 app to give citizens control over their health data, teleconsultations, and digital vaccination records.",
+          "documentUrl": "documents/netherlands/netherlands-ehealth-agenda.pdf",
+          "year": 2024,
+          "language": "Portuguese, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Romania",
+      "isoCode": "RO",
+      "flag": "flags/ro.svg",
+      "strategies": [
+        {
+          "title": "Dosarul Electronic de Sănătate (DES) Strategy",
+          "description": "Modernization framework aimed at increasing the usability and interoperability of the national electronic health record system.",
+          "documentUrl": "documents/netherlands/netherlands-ehealth-agenda.pdf",
+          "year": 2023,
+          "language": "Romanian, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Russia",
+      "isoCode": "RU",
+      "flag": "flags/ru.svg",
+      "strategies": [
+        {
+          "title": "Unified State Health Information System (EGISZ)",
+          "description": "A federal initiative to create a unified digital healthcare contour, integrating regional systems, AI diagnostics, and the Gosuslugi patient portal.",
+          "documentUrl": "documents/netherlands/netherlands-ehealth-agenda.pdf",
+          "year": 2024,
+          "language": "Russian"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "San Marino",
+      "isoCode": "SM",
+      "flag": "flags/sm.svg",
+      "strategies": [
+        {
+          "title": "Fascicolo Sanitario Elettronico di San Marino",
+          "description": "Implementation of a digital health dossier allowing citizens and the national health institute to manage and share medical histories securely.",
+          "documentUrl": "documents/netherlands/netherlands-ehealth-agenda.pdf",
+          "year": 2022,
+          "language": "Italian"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Serbia",
+      "isoCode": "RS",
+      "flag": "flags/rs.svg",
+      "strategies": [
+        {
+          "title": "eZdravlje and Digitalization Program",
+          "description": "Modernizes the healthcare system through the national eZdravlje portal, introducing digital sick leave, e-prescriptions, and central registries.",
+          "documentUrl": "documents/netherlands/netherlands-ehealth-agenda.pdf",
+          "year": 2024,
+          "language": "Serbian, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Slovakia",
+      "isoCode": "SK",
+      "flag": "flags/sk.svg",
+      "strategies": [
+        {
+          "title": "eZdravie Strategy",
+          "description": "Focuses on the comprehensive integration of electronic health records, lab results, and medication history accessible via national ID cards.",
+          "documentUrl": "documents/netherlands/netherlands-ehealth-agenda.pdf",
+          "year": 2023,
+          "language": "Slovak, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Slovenia",
+      "isoCode": "SI",
+      "flag": "flags/si.svg",
+      "strategies": [
+        {
+          "title": "eZdravje National Project",
+          "description": "Centralizes health services through the zVEM patient portal, featuring e-prescriptions, e-referrals, and a central registry of patient data.",
+          "documentUrl": "documents/netherlands/netherlands-ehealth-agenda.pdf",
+          "year": 2024,
+          "language": "Slovenian, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Spain",
+      "isoCode": "ES",
+      "flag": "flags/es.svg",
+      "strategies": [
+        {
+          "title": "Digital Health Strategy of the SNS",
+          "description": "Promotes interoperability of the Historia Clínica Digital (HCDSNS) across autonomous communities and scales predictive analytics and telemedicine.",
+          "documentUrl": "documents/netherlands/netherlands-ehealth-agenda.pdf",
+          "year": 2025,
+          "language": "Spanish, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Sweden",
+      "isoCode": "SE",
+      "flag": "flags/se.svg",
+      "strategies": [
+        {
+          "title": "Vision e-Health 2025",
+          "description": "Aims to make Sweden the world leader in e-health by emphasizing standards, robust legal frameworks, and individual access to digital care tools.",
+          "documentUrl": "documents/netherlands/netherlands-ehealth-agenda.pdf",
+          "year": 2025,
+          "language": "Swedish, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Switzerland",
+      "isoCode": "CH",
+      "flag": "flags/ch.svg",
+      "strategies": [
+        {
+          "title": "eHealth Suisse Strategy",
+          "description": "Governs the decentralized rollout of the Electronic Patient Record (EPR), empowering citizens with control over their health data across cantons.",
+          "documentUrl": "documents/netherlands/netherlands-ehealth-agenda.pdf",
+          "year": 2024,
+          "language": "German, French, Italian, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Ukraine",
+      "isoCode": "UA",
+      "flag": "flags/ua.svg",
+      "strategies": [
+        {
+          "title": "eHealth Ukraine Ecosystem",
+          "description": "A centralized digital health infrastructure linking patients, providers, and state systems to ensure transparency, e-prescriptions, and medical data tracking.",
+          "documentUrl": "documents/netherlands/netherlands-ehealth-agenda.pdf",
+          "year": 2024,
+          "language": "Ukrainian, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "United Kingdom",
+      "isoCode": "GB",
+      "flag": "flags/gb.svg",
+      "strategies": [
+        {
+          "title": "NHS Digital Transformation Plan",
+          "description": "Prioritizes scaling the NHS App as the digital front door to health services, integrating virtual wards, and utilizing AI for preventive healthcare.",
+          "documentUrl": "documents/netherlands/netherlands-ehealth-agenda.pdf",
+          "year": 2025,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Vatican City",
+      "isoCode": "VA",
+      "flag": "flags/va.svg",
+      "strategies": [
+        {
+          "title": "Vatican Health Services Digital Modernization",
+          "description": "Internal initiative to digitize medical records and pharmacy prescriptions for the Directorate of Health and Hygiene serving residents and employees.",
+          "documentUrl": "documents/netherlands/netherlands-ehealth-agenda.pdf",
+          "year": 2022,
+          "language": "Italian"
         }
       ]
     },
