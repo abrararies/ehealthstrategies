@@ -42,10 +42,10 @@ export function renderHero(stats: HeroStats, orderedRegions: string[]): HTMLElem
   const left = el("div", { class: "hero__lead" }, [
     el("span", { class: "hero__eyebrow" }, ["Digital health policy reference"]),
     el("h1", { class: "hero__title" }, [
-      "National eHealth strategies, catalogued by region.",
+      "National eHealth Strategies Registry",
     ]),
     el("p", { class: "hero__lede" }, [
-      "A single, citable index of official eHealth and digital health strategy documents published by ministries of health worldwide — built for policymakers, regulators, and researchers who benchmark against their peers.",
+      "A single index of official eHealth and digital health strategy documents published by ministries of health worldwide — built for policymakers, regulators and researchers.",
     ]),
     el("div", { class: "hero__stats" }, [
       statBlock(stats.countryCount, "Countries indexed"),
