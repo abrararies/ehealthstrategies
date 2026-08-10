@@ -2,21 +2,13 @@
 National eHealth Strategies of Different Countries
 ![Deploy Website](https://github.com/abrararies/ehealthstrategies/actions/workflows/deploy.yml/badge.svg)
 
-A single-page, static website that catalogues **national eHealth / digital
+A catalogue of **national eHealth / digital
 health strategies**, grouped by world region, so policymakers, regulators,
 and researchers can quickly find and download what their peers have
 published.
 
-Built with plain **TypeScript + Vite** (no UI framework) and hand-written
-CSS. The whole site is driven by one JSON file — add a country or a
+To make it easy to contribute, the whole site is driven by one JSON file — add a country or a
 document by editing data, not code.
-
-> **⚠️ About the data shipped in this repo.** `src/data/data.json` currently
-> contains **illustrative sample entries** (11 countries, made-up-but-plausible
-> titles and descriptions) and matching **placeholder PDFs**, so you have a
-> working site to look at immediately. None of it is verified official
-> content. Replace it with real, sourced entries before publishing —
-> see "Rights & sourcing" below.
 
 ---
 
@@ -33,7 +25,6 @@ document by editing data, not code.
 - [Document guidelines & rights](#document-guidelines--rights)
 - [Validating your changes](#validating-your-changes)
 - [Local development](#local-development)
-- [Deploying to GitHub Pages](#deploying-to-github-pages)
 - [Contribution workflow](#contribution-workflow)
 - [Customizing the design](#customizing-the-design)
 
@@ -124,8 +115,7 @@ The site groups and orders countries automatically — you never need to touch
 
 A country can have any number of strategies (e.g. a current one and a
 superseded one). Just add another object to that country's `"strategies"`
-array — see Germany's entry in the shipped sample data for an example with
-two strategies.
+array — see Germany's entry for an example with two strategies.
 
 ## Updating or retiring a strategy
 
@@ -243,27 +233,6 @@ npm run dev
 
 Starts Vite's dev server with hot reload — edits to `data.json`, styles, or
 TypeScript show up instantly in the browser.
-
-## Deploying to GitHub Pages
-
-This project builds to static files with no server required, and ships a
-ready-to-use GitHub Actions workflow.
-
-**One-time setup**, after pushing this repo to GitHub:
-1. Repo **Settings → Pages → Source**, select **GitHub Actions**.
-2. Push to `main` (or merge a PR into it). `.github/workflows/deploy.yml`
-   will build the site and publish it automatically. Watch progress under
-   the **Actions** tab.
-
-The Vite config uses a relative build base (`base: "./"`), so the built
-site works whether it's served from a domain root, a GitHub Pages project
-path like `https://your-org.github.io/ehealth-strategies-registry/`, or any
-other static host (Netlify, Vercel, S3, etc.) — no path configuration
-needed either way.
-
-Before your first deploy, update the placeholder GitHub link:
-in `src/render.ts`, set `REPO_URL` to your repository's actual URL (it's
-used in the header and footer "Contribute on GitHub" links).
 
 ## Contribution workflow
 
