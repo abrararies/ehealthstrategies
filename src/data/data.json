@@ -1,0 +1,180 @@
+{
+  "lastUpdated": "2026-08-10",
+  "countries": [
+    {
+      "region": "Africa",
+      "name": "Rwanda",
+      "isoCode": "RW",
+      "flag": "flags/rw.svg",
+      "strategies": [
+        {
+          "title": "Health Sector Digitalization Strategy 2021–2030",
+          "description": "Sets out a phased plan to digitize health facility records, expand mobile tools for community health workers, and extend telemedicine coverage to rural districts.",
+          "documentUrl": "documents/rwanda/rwanda-health-digitalization-strategy.pdf",
+          "year": 2021,
+          "language": "English, Kinyarwanda"
+        }
+      ]
+    },
+    {
+      "region": "Africa",
+      "name": "South Africa",
+      "isoCode": "ZA",
+      "flag": "flags/za.svg",
+      "strategies": [
+        {
+          "title": "National Digital Health Strategy 2019–2024",
+          "description": "Establishes a unique patient identifier system and shared data standards to connect provincial health information systems into a single interoperable network.",
+          "documentUrl": "documents/south-africa/south-africa-digital-health-strategy.pdf",
+          "year": 2019,
+          "language": "English",
+          "note": "Provincial implementation guidance is published separately by each province's Department of Health."
+        }
+      ]
+    },
+    {
+      "region": "Americas",
+      "name": "Brazil",
+      "isoCode": "BR",
+      "flag": "flags/br.svg",
+      "strategies": [
+        {
+          "title": "National Digital Health Strategy 2020–2028",
+          "description": "Coordinates the rollout of a citizen-facing digital health record, telehealth regulation, and shared interoperability standards across public and private providers.",
+          "documentUrl": "documents/brazil/brazil-digital-health-strategy.pdf",
+          "year": 2020,
+          "language": "Portuguese"
+        }
+      ]
+    },
+    {
+      "region": "Americas",
+      "name": "United States",
+      "isoCode": "US",
+      "flag": "flags/us.svg",
+      "strategies": [
+        {
+          "title": "Federal Health IT Strategic Plan",
+          "description": "Outlines federal priorities for health information technology, including interoperability requirements, patient access to records, and public health data modernization.",
+          "documentUrl": "documents/united-states/us-federal-health-it-strategic-plan.pdf",
+          "year": 2020,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "region": "Asia",
+      "name": "India",
+      "isoCode": "IN",
+      "flag": "flags/in.svg",
+      "strategies": [
+        {
+          "title": "National Digital Health Blueprint",
+          "description": "Proposes a federated architecture for health data exchange, a national health identifier, and a registry of verified health facilities and practitioners.",
+          "documentUrl": "documents/india/india-digital-health-blueprint.pdf",
+          "year": 2019,
+          "language": "English, Hindi",
+          "note": "Sample entry — replace with the current, verified official document before publishing this site."
+        }
+      ]
+    },
+    {
+      "region": "Asia",
+      "name": "Singapore",
+      "isoCode": "SG",
+      "flag": "flags/sg.svg",
+      "strategies": [
+        {
+          "title": "Smart Nation Healthcare Roadmap",
+          "description": "Frames healthcare as a pillar of the national Smart Nation programme, prioritizing predictive analytics, remote monitoring, and a unified national health record.",
+          "documentUrl": "documents/singapore/singapore-smart-health-roadmap.pdf",
+          "year": 2022,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Estonia",
+      "isoCode": "EE",
+      "flag": "flags/ee.svg",
+      "strategies": [
+        {
+          "title": "National Digital Health Strategy 2030",
+          "description": "Builds on Estonia's national data-exchange infrastructure to extend the electronic health record with genomic data, AI-assisted triage, and cross-border data sharing within the EU.",
+          "documentUrl": "documents/estonia/estonia-digital-health-strategy-2030.pdf",
+          "year": 2021,
+          "language": "Estonian, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Germany",
+      "isoCode": "DE",
+      "flag": "flags/de.svg",
+      "strategies": [
+        {
+          "title": "Digital Strategy for Health and Care 2025",
+          "description": "Sets binding milestones for electronic patient record adoption, e-prescriptions, and telemedicine reimbursement across the statutory health insurance system.",
+          "documentUrl": "documents/germany/germany-digital-health-strategy-2025.pdf",
+          "year": 2023,
+          "language": "German (English summary available)"
+        },
+        {
+          "title": "eHealth Roadmap 2016",
+          "description": "The earlier national framework establishing the legal basis for the telematics infrastructure that later strategies build upon.",
+          "documentUrl": "documents/germany/germany-ehealth-roadmap-2016.pdf",
+          "year": 2016,
+          "language": "German",
+          "note": "Superseded by the Digital Strategy for Health and Care 2025; retained here for historical reference."
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Netherlands",
+      "isoCode": "NL",
+      "flag": "flags/nl.svg",
+      "strategies": [
+        {
+          "title": "National eHealth Agenda",
+          "description": "Prioritizes giving patients direct digital access to their own health data and setting shared technical standards so different care providers' systems can exchange records safely.",
+          "documentUrl": "documents/netherlands/netherlands-ehealth-agenda.pdf",
+          "year": 2024,
+          "language": "Dutch, English"
+        }
+      ]
+    },
+    {
+      "region": "Middle East",
+      "name": "United Arab Emirates",
+      "isoCode": "AE",
+      "flag": "flags/ae.svg",
+      "strategies": [
+        {
+          "title": "UAE National eHealth Strategy",
+          "description": "Coordinates a federal health information exchange across the UAE's emirates, alongside AI-driven public health surveillance and a unified patient record.",
+          "documentUrl": "documents/united-arab-emirates/uae-ehealth-strategy.pdf",
+          "year": 2017,
+          "language": "Arabic, English"
+        }
+      ]
+    },
+    {
+      "region": "Oceania",
+      "name": "Australia",
+      "isoCode": "AU",
+      "flag": "flags/au.svg",
+      "strategies": [
+        {
+          "title": "National Digital Health Strategy 2023–2028",
+          "description": "Expands the My Health Record system, sets interoperability standards for clinical software vendors, and funds digital health services for rural and remote communities.",
+          "documentUrl": "documents/australia/australia-digital-health-strategy.pdf",
+          "year": 2023,
+          "language": "English"
+        }
+      ]
+    }
+  ]
+}

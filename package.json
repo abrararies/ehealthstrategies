@@ -1,0 +1,21 @@
+{
+  "name": "ehealth-strategies-registry",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A public registry of national eHealth strategies, organized by world region.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "prebuild": "npm run validate-data",
+    "build": "tsc --noEmit -p tsconfig.json && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "validate-data": "tsx scripts/validate-data.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.5"
+  }
+}
