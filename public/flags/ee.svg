@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 40" role="img"><rect x="0" y="0.00" width="60" height="13.33" fill="#0072CE"/><rect x="0" y="13.33" width="60" height="13.33" fill="#000000"/><rect x="0" y="26.67" width="60" height="13.33" fill="#FFFFFF"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="flag-icons-ee" viewBox="0 0 640 480">
+  <path fill="#1791ff" d="M0 0h640v160H0z"/>
+  <path fill="#000001" d="M0 160h640v160H0z"/>
+  <path fill="#fff" d="M0 320h640v160H0z"/>
+</svg>
