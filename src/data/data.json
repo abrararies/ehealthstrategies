@@ -95,6 +95,171 @@
     },
     {
       "region": "Europe",
+      "name": "Albania",
+      "isoCode": "AL",
+      "flag": "flags/al.svg",
+      "strategies": [
+        {
+          "title": "e-Albania Digital Health Initiative",
+          "description": "Focuses on centralizing patient services, digital prescriptions, and health records through the national e-Albania governmental portal.",
+          "documentUrl": "documents/albania/albania-ehealth-strategy.pdf",
+          "year": 2023,
+          "language": "Albanian, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Andorra",
+      "isoCode": "AD",
+      "flag": "flags/ad.svg",
+      "strategies": [
+        {
+          "title": "Història Clínica Compartida (HC3)",
+          "description": "Establishes a unified electronic health record system to facilitate information sharing among all authorized healthcare professionals in the principality.",
+          "documentUrl": "documents/andorra/andorra-hc3-strategy.pdf",
+          "year": 2022,
+          "language": "Catalan"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Austria",
+      "isoCode": "AT",
+      "flag": "flags/at.svg",
+      "strategies": [
+        {
+          "title": "Elektronische Gesundheitsakte (ELGA)",
+          "description": "An information system that provides citizens and authorized healthcare professionals access to health documents like discharge letters and e-medication.",
+          "documentUrl": "documents/austria/austria-elga-framework.pdf",
+          "year": 2024,
+          "language": "German, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Belarus",
+      "isoCode": "BY",
+      "flag": "flags/by.svg",
+      "strategies": [
+        {
+          "title": "National E-Health Implementation Plan",
+          "description": "Aims to establish a centralized electronic healthcare infrastructure to improve primary care access and medical data exchange across regions.",
+          "documentUrl": "documents/belarus/belarus-ehealth-plan.pdf",
+          "year": 2022,
+          "language": "Russian, Belarusian"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Belgium",
+      "isoCode": "BE",
+      "flag": "flags/be.svg",
+      "strategies": [
+        {
+          "title": "eHealth Action Plan",
+          "description": "Focuses on mobile health interoperability, patient empowerment, and secure regional hubs for multidisciplinary healthcare data exchange.",
+          "documentUrl": "documents/belgium/belgium-ehealth-action.pdf",
+          "year": 2024,
+          "language": "Dutch, French, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Bosnia and Herzegovina",
+      "isoCode": "BA",
+      "flag": "flags/ba.svg",
+      "strategies": [
+        {
+          "title": "Digital Transformation of Healthcare Strategy",
+          "description": "A framework to modernize health information systems at the entity levels, focusing on electronic health records and digital prescriptions.",
+          "documentUrl": "documents/bosnia/bosnia-health-digital.pdf",
+          "year": 2023,
+          "language": "Bosnian, Croatian, Serbian"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Bulgaria",
+      "isoCode": "BG",
+      "flag": "flags/bg.svg",
+      "strategies": [
+        {
+          "title": "National Health Information System (NHIS)",
+          "description": "Prioritizes the full rollout of electronic referrals, e-prescriptions, and a unified patient dossier for all citizens.",
+          "documentUrl": "documents/bulgaria/bulgaria-nhis-strategy.pdf",
+          "year": 2023,
+          "language": "Bulgarian, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Croatia",
+      "isoCode": "HR",
+      "flag": "flags/hr.svg",
+      "strategies": [
+        {
+          "title": "e-Zdravlje Strategic Plan",
+          "description": "Expands the central healthcare portal to include cross-border prescription sharing, telemedicine solutions, and advanced patient portals.",
+          "documentUrl": "documents/croatia/croatia-ezdravlje.pdf",
+          "year": 2024,
+          "language": "Croatian, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Cyprus",
+      "isoCode": "CY",
+      "flag": "flags/cy.svg",
+      "strategies": [
+        {
+          "title": "National eHealth Law Framework",
+          "description": "Sets the legal and technical foundation for the National eHealth Authority to manage electronic patient records and cross-border health data.",
+          "documentUrl": "documents/cyprus/cyprus-ehealth-law.pdf",
+          "year": 2022,
+          "language": "Greek, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Czechia",
+      "isoCode": "CZ",
+      "flag": "flags/cz.svg",
+      "strategies": [
+        {
+          "title": "National Strategy of Electronic Health (NSeZ)",
+          "description": "Defines the architecture for secure health data sharing, digital health literacy, and expanding the eRecipe ecosystem.",
+          "documentUrl": "documents/czechia/czechia-nsez.pdf",
+          "year": 2024,
+          "language": "Czech, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
+      "name": "Denmark",
+      "isoCode": "DK",
+      "flag": "flags/dk.svg",
+      "strategies": [
+        {
+          "title": "Digital Health Strategy",
+          "description": "Focuses on user-friendly digital tools, seamless data flow between municipalities and hospitals, and leveraging AI for predictive healthcare.",
+          "documentUrl": "documents/denmark/denmark-digital-health.pdf",
+          "year": 2025,
+          "language": "Danish, English"
+        }
+      ]
+    },
+    {
+      "region": "Europe",
       "name": "Estonia",
       "isoCode": "EE",
       "flag": "flags/ee.svg",
