@@ -1,5 +1,5 @@
 import { el, svgFromString, slugify } from "./dom";
-import { ICON_SEARCH, ICON_DOWNLOAD, ICON_MARK, ICON_DOCUMENT } from "./icons";
+import { ICON_SEARCH, ICON_DOWNLOAD, ICON_DOCUMENT } from "./icons";
 import { getRegionMeta } from "./regions";
 import { resolveAsset } from "./assets";
 import type { Country, Strategy } from "./types";
