@@ -93,7 +93,7 @@
         }
       ]
     },
-    {
+   /* {
       "region": "Europe",
       "name": "Albania",
       "isoCode": "AL",
@@ -122,7 +122,7 @@
           "language": "Catalan"
         }
       ]
-    },
+    },*/
     {
       "region": "Europe",
       "name": "Austria",
@@ -130,15 +130,15 @@
       "flag": "flags/at.svg",
       "strategies": [
         {
-          "title": "Elektronische Gesundheitsakte (ELGA)",
-          "description": "An information system that provides citizens and authorized healthcare professionals access to health documents like discharge letters and e-medication.",
-          "documentUrl": "documents/singapore/singapore-smart-health-roadmap.pdf",
+          "title": "eHealth Strategy Austria",
+          "description": "",
+          "documentUrl": "documents/austria/austria-ehealth-strategy-2024.pdf",
           "year": 2024,
-          "language": "German, English"
+          "language": "English"
         }
       ]
     },
-    {
+    /*{
       "region": "Europe",
       "name": "Belarus",
       "isoCode": "BY",
@@ -152,7 +152,7 @@
           "language": "Russian, Belarusian"
         }
       ]
-    },
+    },*/
     {
       "region": "Europe",
       "name": "Belgium",
@@ -160,15 +160,15 @@
       "flag": "flags/be.svg",
       "strategies": [
         {
-          "title": "eHealth Action Plan",
-          "description": "Focuses on mobile health interoperability, patient empowerment, and secure regional hubs for multidisciplinary healthcare data exchange.",
-          "documentUrl": "documents/singapore/singapore-smart-health-roadmap.pdf",
-          "year": 2024,
-          "language": "Dutch, French, English"
+          "title": "Protocol Agreement of the Interministerial Conference on Public Health Containing e-Health Action Plan 2022-2024",
+          "description": "",
+          "documentUrl": "documents/belgium/belgium-ehealth-actionplan-2022.pdf",
+          "year": 2022,
+          "language": "Dutch, French"
         }
       ]
     },
-    {
+    /*{
       "region": "Europe",
       "name": "Bosnia and Herzegovina",
       "isoCode": "BA",
@@ -182,7 +182,7 @@
           "language": "Bosnian, Croatian, Serbian"
         }
       ]
-    },
+    },*/
     {
       "region": "Europe",
       "name": "Bulgaria",
@@ -190,10 +190,10 @@
       "flag": "flags/bg.svg",
       "strategies": [
         {
-          "title": "National Health Information System (NHIS)",
-          "description": "Prioritizes the full rollout of electronic referrals, e-prescriptions, and a unified patient dossier for all citizens.",
-          "documentUrl": "documents/singapore/singapore-smart-health-roadmap.pdf",
-          "year": 2023,
+          "title": "National Strategy for Electronic Healthcare and Digitalisation of Health System 2030",
+          "description": "",
+          "documentUrl": "documents/bulgaria/bulgaria_ehealth_strategy_2024.pdf",
+          "year": 2024,
           "language": "Bulgarian, English"
         }
       ]
@@ -205,15 +205,15 @@
       "flag": "flags/hr.svg",
       "strategies": [
         {
-          "title": "e-Zdravlje Strategic Plan",
-          "description": "Expands the central healthcare portal to include cross-border prescription sharing, telemedicine solutions, and advanced patient portals.",
-          "documentUrl": "documents/singapore/singapore-smart-health-roadmap.pdf",
-          "year": 2024,
-          "language": "Croatian, English"
+          "title": "National Health Development Plan 2021-2027",
+          "description": "",
+          "documentUrl": "documents/croatia/croatia-health-developmentplan-2021.pdf",
+          "year": 2021,
+          "language": "Croatian"
         }
       ]
     },
-    {
+    /*{
       "region": "Europe",
       "name": "Cyprus",
       "isoCode": "CY",
@@ -227,7 +227,7 @@
           "language": "Greek, English"
         }
       ]
-    },
+    },*/
     {
       "region": "Europe",
       "name": "Czechia",
@@ -235,10 +235,10 @@
       "flag": "flags/cz.svg",
       "strategies": [
         {
-          "title": "National Strategy of Electronic Health (NSeZ)",
-          "description": "Defines the architecture for secure health data sharing, digital health literacy, and expanding the eRecipe ecosystem.",
-          "documentUrl": "documents/singapore/singapore-smart-health-roadmap.pdf",
-          "year": 2024,
+          "title": "National eHealth Strategy of the Czech Republic 2016-2020",
+          "description": "",
+          "documentUrl": "documents/czech/czech_ehealth_strategy_2016.pdf",
+          "year": 2016,
           "language": "Czech, English"
         }
       ]
@@ -250,9 +250,9 @@
       "flag": "flags/dk.svg",
       "strategies": [
         {
-          "title": "Digital Health Strategy",
-          "description": "Focuses on user-friendly digital tools, seamless data flow between municipalities and hospitals, and leveraging AI for predictive healthcare.",
-          "documentUrl": "documents/singapore/singapore-smart-health-roadmap.pdf",
+          "title": "Digital Health Strategy 2018-2022",
+          "description": "",
+          "documentUrl": "documents/denmark/denmark_digital_health_strategy_2018_2022.pdf",
           "year": 2025,
           "language": "Danish, English"
         }
@@ -265,11 +265,11 @@
       "flag": "flags/ee.svg",
       "strategies": [
         {
-          "title": "National Digital Health Strategy 2030",
-          "description": "Builds on Estonia's national data-exchange infrastructure to extend the electronic health record with genomic data, AI-assisted triage, and cross-border data sharing within the EU.",
-          "documentUrl": "documents/estonia/estonia-digital-health-strategy-2030.pdf",
-          "year": 2021,
-          "language": "Estonian, English"
+          "title": "Estonian eHealth Strategic Development Plan 2020",
+          "description": "",
+          "documentUrl": "documents/estonia/estonia_ehealth_strategy_2020_2025.pdf",
+          "year": 2020,
+          "language": "English"
         }
       ]
     },
@@ -280,15 +280,15 @@
       "flag": "flags/fi.svg",
       "strategies": [
         {
-          "title": "Kanta Services Roadmap",
-          "description": "Integrates social care data with healthcare records and provides advanced tools for secondary use of health and social data (Findata).",
-          "documentUrl": "documents/estonia/estonia-digital-health-strategy-2030.pdf",
-          "year": 2024,
+          "title": "Strategy for digitalisation and information management in healthcare and social welfare 2023-2035",
+          "description": "",
+          "documentUrl": "documents/finland/finland_ehealth_strategy_2023_2035.pdf",
+          "year": 2023,
           "language": "Finnish, Swedish, English"
         }
       ]
     },
-    {
+    /*{
       "region": "Europe",
       "name": "France",
       "isoCode": "FR",
@@ -302,7 +302,7 @@
           "language": "French, English"
         }
       ]
-    },
+    },*/
     {
       "region": "Europe",
       "name": "Germany",
@@ -310,12 +310,12 @@
       "flag": "flags/de.svg",
       "strategies": [
         {
-          "title": "Digital Strategy for Health and Care 2025",
-          "description": "Sets binding milestones for electronic patient record adoption, e-prescriptions, and telemedicine reimbursement across the statutory health insurance system.",
-          "documentUrl": "documents/germany/germany-digital-health-strategy-2025.pdf",
+          "title": "Digitalisation Strategy for Health and Care 2023-2030",
+          "description": "",
+          "documentUrl": "documents/germany/germany_digital_health_strategy_2023_2030.pdf",
           "year": 2023,
-          "language": "German (English summary available)"
-        },
+          "language": "English"
+        }/*,
         {
           "title": "eHealth Roadmap 2016",
           "description": "The earlier national framework establishing the legal basis for the telematics infrastructure that later strategies build upon.",
@@ -323,10 +323,10 @@
           "year": 2016,
           "language": "German",
           "note": "Superseded by the Digital Strategy for Health and Care 2025; retained here for historical reference."
-        }
+        }*/
       ]
     },
-    {
+    /*{
       "region": "Europe",
       "name": "Greece",
       "isoCode": "GR",
@@ -370,7 +370,7 @@
           "language": "Icelandic, English"
         }
       ]
-    },
+    },*/
     {
       "region": "Europe",
       "name": "Ireland",
@@ -378,11 +378,11 @@
       "flag": "flags/ie.svg",
       "strategies": [
         {
-          "title": "eHealth Ireland Implementation Plan",
-          "description": "Focuses on delivering a national Electronic Health Record (EHR) and establishing individual health identifiers for safe digital care pathways.",
-          "documentUrl": "documents/germany/germany-ehealth-roadmap-2016.pdf",
+          "title": "Digital for Care —A Digital Health Framework for Ireland 2024-2030",
+          "description": "",
+          "documentUrl": "documents/ireland/ireland_digital_health_framework_2024_2030.pdf",
           "year": 2024,
-          "language": "English, Irish"
+          "language": "English"
         }
       ]
     },
