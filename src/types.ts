@@ -9,7 +9,7 @@ export interface Strategy {
   /** Official title of the strategy document, in its original language. */
   title: string;
   /** 1–3 sentence plain-language summary of scope and purpose. */
-  description: string;
+  description?: string;
   /**
    * Where to find the document. Either:
    *  - an absolute URL to the official government/ministry page or PDF, or
