@@ -16,10 +16,10 @@ export interface RegionMeta {
 }
 
 export const REGION_ORDER = [
+  "Europe",
   "Africa",
   "Americas",
   "Asia",
-  "Europe",
   "Middle East",
   "Oceania",
 ] as const;
