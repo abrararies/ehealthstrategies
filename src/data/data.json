@@ -93,36 +93,7 @@
         }
       ]
     },
-   /* {
-      "region": "Europe",
-      "name": "Albania",
-      "isoCode": "AL",
-      "flag": "flags/al.svg",
-      "strategies": [
-        {
-          "title": "e-Albania Digital Health Initiative",
-          "description": "Focuses on centralizing patient services, digital prescriptions, and health records through the national e-Albania governmental portal.",
-          "documentUrl": "documents/singapore/singapore-smart-health-roadmap.pdf",
-          "year": 2023,
-          "language": "Albanian, English"
-        }
-      ]
-    },
-    {
-      "region": "Europe",
-      "name": "Andorra",
-      "isoCode": "AD",
-      "flag": "flags/ad.svg",
-      "strategies": [
-        {
-          "title": "Història Clínica Compartida (HC3)",
-          "description": "Establishes a unified electronic health record system to facilitate information sharing among all authorized healthcare professionals in the principality.",
-          "documentUrl": "documents/singapore/singapore-smart-health-roadmap.pdf",
-          "year": 2022,
-          "language": "Catalan"
-        }
-      ]
-    },*/
+   
     {
       "region": "Europe",
       "name": "Austria",
@@ -138,21 +109,7 @@
         }
       ]
     },
-    /*{
-      "region": "Europe",
-      "name": "Belarus",
-      "isoCode": "BY",
-      "flag": "flags/by.svg",
-      "strategies": [
-        {
-          "title": "National E-Health Implementation Plan",
-          "description": "Aims to establish a centralized electronic healthcare infrastructure to improve primary care access and medical data exchange across regions.",
-          "documentUrl": "documents/singapore/singapore-smart-health-roadmap.pdf",
-          "year": 2022,
-          "language": "Russian, Belarusian"
-        }
-      ]
-    },*/
+   
     {
       "region": "Europe",
       "name": "Belgium",
@@ -168,21 +125,7 @@
         }
       ]
     },
-    /*{
-      "region": "Europe",
-      "name": "Bosnia and Herzegovina",
-      "isoCode": "BA",
-      "flag": "flags/ba.svg",
-      "strategies": [
-        {
-          "title": "Digital Transformation of Healthcare Strategy",
-          "description": "A framework to modernize health information systems at the entity levels, focusing on electronic health records and digital prescriptions.",
-          "documentUrl": "documents/singapore/singapore-smart-health-roadmap.pdf",
-          "year": 2023,
-          "language": "Bosnian, Croatian, Serbian"
-        }
-      ]
-    },*/
+    
     {
       "region": "Europe",
       "name": "Bulgaria",
@@ -209,25 +152,12 @@
           "description": "",
           "documentUrl": "documents/croatia/croatia-health-developmentplan-2021.pdf",
           "year": 2021,
-          "language": "Croatian"
+          "language": "Croatian",
+          "note": "Currently Croatia does not have a dedicated ehealth strategy"
         }
       ]
     },
-    /*{
-      "region": "Europe",
-      "name": "Cyprus",
-      "isoCode": "CY",
-      "flag": "flags/cy.svg",
-      "strategies": [
-        {
-          "title": "National eHealth Law Framework",
-          "description": "Sets the legal and technical foundation for the National eHealth Authority to manage electronic patient records and cross-border health data.",
-          "documentUrl": "documents/singapore/singapore-smart-health-roadmap.pdf",
-          "year": 2022,
-          "language": "Greek, English"
-        }
-      ]
-    },*/
+   
     {
       "region": "Europe",
       "name": "Czechia",
@@ -288,21 +218,7 @@
         }
       ]
     },
-    /*{
-      "region": "Europe",
-      "name": "France",
-      "isoCode": "FR",
-      "flag": "flags/fr.svg",
-      "strategies": [
-        {
-          "title": "Mon Espace Santé / Ma Santé 2022",
-          "description": "A comprehensive digital health platform providing every citizen with a secure portal for records, messaging, and health application integration.",
-          "documentUrl": "documents/estonia/estonia-digital-health-strategy-2030.pdf",
-          "year": 2023,
-          "language": "French, English"
-        }
-      ]
-    },*/
+  
     {
       "region": "Europe",
       "name": "Germany",
@@ -315,62 +231,10 @@
           "documentUrl": "documents/germany/germany_digital_health_strategy_2023_2030.pdf",
           "year": 2023,
           "language": "English"
-        }/*,
-        {
-          "title": "eHealth Roadmap 2016",
-          "description": "The earlier national framework establishing the legal basis for the telematics infrastructure that later strategies build upon.",
-          "documentUrl": "documents/germany/germany-ehealth-roadmap-2016.pdf",
-          "year": 2016,
-          "language": "German",
-          "note": "Superseded by the Digital Strategy for Health and Care 2025; retained here for historical reference."
-        }*/
-      ]
-    },
-    /*{
-      "region": "Europe",
-      "name": "Greece",
-      "isoCode": "GR",
-      "flag": "flags/gr.svg",
-      "strategies": [
-        {
-          "title": "National eHealth Interoperability Framework",
-          "description": "Modernizes the national digital health registry, rolling out the MyHealth app, and establishing integrated telemedicine networks for islands.",
-          "documentUrl": "documents/germany/germany-ehealth-roadmap-2016.pdf",
-          "year": 2023,
-          "language": "Greek, English"
         }
       ]
     },
-    {
-      "region": "Europe",
-      "name": "Hungary",
-      "isoCode": "HU",
-      "flag": "flags/hu.svg",
-      "strategies": [
-        {
-          "title": "National eHealth Infrastructure (EESZT)",
-          "description": "A unified cloud-based system maintaining health records, digital prescriptions, and diagnostic imaging for all state and private healthcare providers.",
-          "documentUrl": "documents/germany/germany-ehealth-roadmap-2016.pdf",
-          "year": 2023,
-          "language": "Hungarian, English"
-        }
-      ]
-    },
-    {
-      "region": "Europe",
-      "name": "Iceland",
-      "isoCode": "IS",
-      "flag": "flags/is.svg",
-      "strategies": [
-        {
-          "title": "Heilsuvera Digital Strategy",
-          "description": "Expands the national health portal to offer comprehensive telehealth services, secure messaging with providers, and self-service health tools.",
-          "documentUrl": "documents/germany/germany-ehealth-roadmap-2016.pdf",
-          "year": 2024,
-          "language": "Icelandic, English"
-        }
-      ]
-    },*/
+    
     {
       "region": "Europe",
       "name": "Ireland",
