@@ -1,6 +1,98 @@
 {
   "lastUpdated": "2026-08-11",
   "countries": [
+   
+    {
+      "region": "Africa",
+      "name": "Zambia",
+      "isoCode": "RW",
+      "flag": "flags/rw.svg",
+      "strategies": [
+        {
+          "title": "Digital Health Strategy 2022-2026",
+          "description": "This strategy adopts the WHO digital health framework and outlines governance, workforce, interoperability, infrastructure and service delivery priorities for 2022–2026.",
+          "documentUrl": "documents/zambia/zambia_digital-health-strategy-2022-2026.pdf",
+          "year": 2022,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "region": "Africa",
+      "name": "South Africa",
+      "isoCode": "ZA",
+      "flag": "flags/za.svg",
+      "strategies": [
+        {
+          "title": "National Digital Health Strategy 2019-2024",
+          "description": "Aims for better health for all South Africans enabled by digital health, building on the earlier eHealth Strategy 2012–2016, and covers governance, architecture, data standards, patient registration, and scaling core digital systems.",
+          "documentUrl": "documents/southafrica/southafrica-digital-health-strategy-2019-2024.pdf",
+          "year": 2019,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "region": "Africa",
+      "name": "Ghana",
+      "isoCode": "GH",
+      "flag": "flags/gh.svg",
+      "strategies": [
+        {
+          "title": "National Digital Health Strategy 2019-2024",
+          "description": "Strategy coordinates digital health interventions and sets governance, interoperability and workforce priorities for 2023–2027.",
+          "documentUrl": "documents/southafrica/southafrica-digital-health-strategy-2019-2024.pdf",
+          "year": 2019,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "region": "Americas",
+      "name": "Brazil",
+      "isoCode": "BR",
+      "flag": "flags/br.svg",
+      "strategies": [
+        {
+          "title": "Digital Transformation Strategy 2024-2030",
+          "description": "Sets the national vision for digital health, including governance, digitisation of care levels, user‑centred services, workforce development, interconnectivity and innovation, and underpins programs like Conecte SUS and the Rede Nacional de Dados em Saúde (RNDS).",
+          "documentUrl": "documents/brazil/brazil-digital-transformation-of-health-strategy-2024-2030.pdf",
+          "year": 2024,
+          "language": "Portuguese"
+        }
+      ]
+    },
+    {
+      "region": "Americas",
+      "name": "Ecuador",
+      "isoCode": "EC",
+      "flag": "flags/ec.svg",
+      "strategies": [
+        {
+          "title": "National Policy for Digital Transformation of Healthcare Sector 2024-2034",
+          "description": "Sets out Ecuador’s vision, principles and lines of action for digital transformation of the health sector from 2024 to 2034.",
+          "documentUrl": "documents/equador/equador_digital_health_strategy_2024-2034.pdf",
+          "year": 2024,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "region": "Asia",
+      "name": "India",
+      "isoCode": "IN",
+      "flag": "flags/in.svg",
+      "strategies": [
+        {
+          "title": "National Digital Health Mission Strategy Overview",
+          "description": "Describes the National Digital Health Mission’s vision for a federated digital health ecosystem, including health IDs, electronic health records, and key digital building blocks.",
+          "documentUrl": "documents/india/india_digital_health_strategy-2020.pdf",
+          "year": 2019,
+          "language": "English"
+        }
+      ]
+    },
+    
     {
       "region": "Europe",
       "name": "Austria",
@@ -266,98 +358,6 @@
         }
       ]
     },
-    {
-      "region": "Africa",
-      "name": "Zambia",
-      "isoCode": "RW",
-      "flag": "flags/rw.svg",
-      "strategies": [
-        {
-          "title": "Digital Health Strategy 2022-2026",
-          "description": "This strategy adopts the WHO digital health framework and outlines governance, workforce, interoperability, infrastructure and service delivery priorities for 2022–2026.",
-          "documentUrl": "documents/zambia/zambia_digital-health-strategy-2022-2026.pdf",
-          "year": 2022,
-          "language": "English"
-        }
-      ]
-    },
-    {
-      "region": "Africa",
-      "name": "South Africa",
-      "isoCode": "ZA",
-      "flag": "flags/za.svg",
-      "strategies": [
-        {
-          "title": "National Digital Health Strategy 2019-2024",
-          "description": "Aims for better health for all South Africans enabled by digital health, building on the earlier eHealth Strategy 2012–2016, and covers governance, architecture, data standards, patient registration, and scaling core digital systems.",
-          "documentUrl": "documents/southafrica/southafrica-digital-health-strategy-2019-2024.pdf",
-          "year": 2019,
-          "language": "English"
-        }
-      ]
-    },
-    {
-      "region": "Africa",
-      "name": "Ghana",
-      "isoCode": "GH",
-      "flag": "flags/gh.svg",
-      "strategies": [
-        {
-          "title": "National Digital Health Strategy 2019-2024",
-          "description": "Strategy coordinates digital health interventions and sets governance, interoperability and workforce priorities for 2023–2027.",
-          "documentUrl": "documents/southafrica/southafrica-digital-health-strategy-2019-2024.pdf",
-          "year": 2019,
-          "language": "English"
-        }
-      ]
-    },
-    {
-      "region": "Americas",
-      "name": "Brazil",
-      "isoCode": "BR",
-      "flag": "flags/br.svg",
-      "strategies": [
-        {
-          "title": "Digital Transformation Strategy 2024-2030",
-          "description": "Sets the national vision for digital health, including governance, digitisation of care levels, user‑centred services, workforce development, interconnectivity and innovation, and underpins programs like Conecte SUS and the Rede Nacional de Dados em Saúde (RNDS).",
-          "documentUrl": "documents/brazil/brazil-digital-transformation-of-health-strategy-2024-2030.pdf",
-          "year": 2024,
-          "language": "Portuguese"
-        }
-      ]
-    },
-    {
-      "region": "Americas",
-      "name": "Ecuador",
-      "isoCode": "EC",
-      "flag": "flags/ec.svg",
-      "strategies": [
-        {
-          "title": "National Policy for Digital Transformation of Healthcare Sector 2024-2034",
-          "description": "Sets out Ecuador’s vision, principles and lines of action for digital transformation of the health sector from 2024 to 2034.",
-          "documentUrl": "documents/equador/equador_digital_health_strategy_2024-2034.pdf",
-          "year": 2024,
-          "language": "Spanish"
-        }
-      ]
-    },
-    {
-      "region": "Asia",
-      "name": "India",
-      "isoCode": "IN",
-      "flag": "flags/in.svg",
-      "strategies": [
-        {
-          "title": "National Digital Health Mission Strategy Overview",
-          "description": "Describes the National Digital Health Mission’s vision for a federated digital health ecosystem, including health IDs, electronic health records, and key digital building blocks.",
-          "documentUrl": "documents/india/india_digital_health_strategy-2020.pdf",
-          "year": 2019,
-          "language": "English"
-        }
-      ]
-    },
-    
-   
     
     {
       "region": "Middle East",
