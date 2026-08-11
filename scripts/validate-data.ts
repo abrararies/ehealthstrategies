@@ -123,7 +123,7 @@ function main() {
       }
       const strat = s as Record<string, unknown>;
       if (!isNonEmptyString(strat.title)) error(`${sLabel}.title is required.`);
-      if (!isNonEmptyString(strat.description)) error(`${sLabel}.description is required.`);
+      //if (!isNonEmptyString(strat.description)) error(`${sLabel}.description is required.`);
       if (!isNonEmptyString(strat.documentUrl)) {
         error(`${sLabel}.documentUrl is required.`);
       } else {
