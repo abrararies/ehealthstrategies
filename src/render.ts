@@ -1,5 +1,5 @@
 import { el, svgFromString, slugify } from "./dom";
-import { ICON_SEARCH, ICON_DOWNLOAD, ICON_MARK } from "./icons";
+import { ICON_SEARCH, ICON_DOWNLOAD, ICON_MARK, ICON_DOCUMENT } from "./icons";
 import { getRegionMeta } from "./regions";
 import { resolveAsset } from "./assets";
 import type { Country, Strategy } from "./types";
@@ -8,7 +8,7 @@ const REPO_URL = "https://github.com/abrarsyedx/ehealthstrategies/";
 
 export function renderHeader(): HTMLElement {
   const brand = el("a", { class: "brand", href: "#top" }, [
-    el("span", { class: "brand__mark" }, [svgFromString(ICON_MARK)]),
+    el("span", { class: "brand__mark" }, [svgFromString(ICON_DOCUMENT)]),
     el("span", { class: "brand__text" }, [
       el("span", { class: "brand__title" }, ["eHealth Strategies Registry"]),
       el("span", { class: "brand__subtitle" }, ["National Digital Health Policy Index"]),
