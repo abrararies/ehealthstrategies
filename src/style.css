@@ -145,6 +145,9 @@ button, input {
 .app-header {
   background: var(--color-navy-deep);
   color: var(--color-navy-ink);
+  position: fixed;
+  width: stretch;
+  z-index: 999;
 }
 
 .app-header__inner {
@@ -220,6 +223,7 @@ button, input {
 .hero {
   background: linear-gradient(180deg, var(--color-navy) 0%, var(--color-navy-deep) 100%);
   color: var(--color-navy-ink);
+   padding-top: 30px;
 }
 
 .hero__inner {
