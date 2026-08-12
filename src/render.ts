@@ -21,7 +21,7 @@ export function renderHeader(): HTMLElement {
     ["Contribute on GitHub ↗"]
   );
 
-  return el("header", { class: "app-header", id: "top" }, [
+  return el("header", { class: "app-header" }, [
     el("div", { class: "app-header__inner wrap" }, [brand, link]),
   ]);
 }
@@ -82,7 +82,7 @@ export function renderHero(stats: HeroStats, orderedRegions: string[]): HTMLElem
     el("nav", { class: "region-nav", "aria-label": "Jump to region" }, pills),
   ]);
 
-  return el("section", { class: "hero" }, [
+  return el("section", { class: "hero", id: "top" }, [
     el("div", { class: "hero__inner wrap" }, [left, tool]),
   ]);
 }
