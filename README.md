@@ -78,13 +78,14 @@ correspond to an actual file under `public/`.
    [ISO 3166-1 alpha-2 code](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2),
    e.g. `public/flags/jp.svg` for Japan. SVG preferred (see
    [flag image guidelines](#flag-image-guidelines)).
+   **Almost all country flags are already uploaded**
 
-2. **Add the PDF(s)** to a new folder under `public/documents/`, named after
+3. **Add the PDF(s)** to a new folder under `public/documents/`, named after
    the country, e.g. `public/documents/japan/japan-digital-health-strategy-2024.pdf`.
    (Or skip this step entirely and link straight to the document on the
    ministry's own website — see [Document guidelines](#document-guidelines--rights).)
 
-3. **Add an entry to `src/data/data.json`**, inside the `"countries"` array:
+4. **Add an entry to `src/data/data.json`**, inside the `"countries"` array:
 
    ```json
    {
@@ -104,10 +105,10 @@ correspond to an actual file under `public/`.
    }
    ```
 
-4. **Validate**: `npm run validate-data` — it checks required fields and
+5. **Validate**: `npm run validate-data` — it checks required fields and
    confirms the flag/document files you referenced actually exist.
 
-5. Commit and open a pull request (see [Contribution workflow](#contribution-workflow)).
+6. Commit and open a pull request (see [Contribution workflow](#contribution-workflow)).
 
 The site groups and orders countries automatically — you never need to touch
 `src/main.ts` or `src/render.ts` to add content.
