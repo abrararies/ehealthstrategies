@@ -116,7 +116,32 @@ The site groups and orders countries automatically — you never need to touch
 
 A country can have any number of strategies (e.g. a current one and a
 superseded one). Just add another object to that country's `"strategies"`
-array — see Germany's entry for an example with two strategies.
+array. For example,
+   ```json
+   {
+     "region": "Asia",
+     "name": "Japan",
+     "isoCode": "JP",
+     "flag": "flags/jp.svg",
+     "strategies": [
+       {
+         "title": "Digital Health Strategy 2024",
+         "description": "One to three sentences on scope and purpose — what the strategy actually covers.",
+         "documentUrl": "documents/japan/japan-digital-health-strategy-2024.pdf",
+         "year": 2024,
+         "language": "Japanese, English summary",
+         "note": "Superseded by the Digital Health Strategy 2026"
+       },
+       {
+         "title": "Digital Health Strategy 2026",
+         "description": "One to three sentences on scope and purpose — what the strategy actually covers.",
+         "documentUrl": "documents/japan/japan-digital-health-strategy-2026.pdf",
+         "year": 2026,
+         "language": "Japanese, English summary"
+       }
+     ]
+   }
+   ```
 
 ## Updating or retiring a strategy
 
